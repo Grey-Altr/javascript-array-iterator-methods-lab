@@ -72,3 +72,10 @@ const travelMethods = [
   "car",
   "truck",
 ];
+
+const devs = [
+  { name: "Alex", year: 1988 },
+  { name: "Dani", year: 1986 },
+  { name: "Matt", year: 1970 },
+  { name: "Wes", year: 2015 },
+];
