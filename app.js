@@ -55,3 +55,20 @@ const people = [
   "Blair, Tony",
   "Blake, William",
 ];
+
+const travelMethods = [
+  "car",
+  "car",
+  "truck",
+  "truck",
+  "bike",
+  "walk",
+  "car",
+  "van",
+  "bike",
+  "walk",
+  "car",
+  "van",
+  "car",
+  "truck",
+];
