@@ -338,7 +338,7 @@ let commentById = {};
 
 // Complete the exercise in the space below:
 
-commentById = comments.find(({id}) => id = 823423);
+commentById = comments.find(({id}) => id === 823423);
 
 // Check your work:
 console.log('Exercise 8 my result: ', commentById);
